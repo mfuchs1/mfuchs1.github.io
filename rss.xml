@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://github.com/mfuchs1/mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://github.com/mfuchs1/mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Fri, 17 Apr 2020 09:33:43 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>mein erster Eintrag</title><link>https://github.com/mfuchs1/mfuchs1.github.io/posts/mein-erster-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://github.com/mfuchs1/mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://github.com/mfuchs1/mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Fri, 17 Apr 2020 11:38:53 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>mein erster Eintrag</title><link>https://github.com/mfuchs1/mfuchs1.github.io/posts/mein-erster-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;p&gt;
 So, hier werde ich nun schreiben.
 &lt;/p&gt;
 
-&lt;div id="outline-container-org7373f2c" class="outline-2"&gt;
-&lt;h2 id="org7373f2c"&gt;Eine erste Überschrift&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org7373f2c"&gt;
+&lt;div id="outline-container-orgd35373f" class="outline-2"&gt;
+&lt;h2 id="orgd35373f"&gt;Eine erste Überschrift&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgd35373f"&gt;
 &lt;p&gt;
 mit einem Text.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org6a8c5da" class="outline-2"&gt;
-&lt;h2 id="org6a8c5da"&gt;eine zweite Überschrift&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org6a8c5da"&gt;
+&lt;div id="outline-container-org12ebea3" class="outline-2"&gt;
+&lt;h2 id="org12ebea3"&gt;eine zweite Überschrift&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org12ebea3"&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;require&lt;/span&gt; &lt;span class="ss"&gt;'package&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;setq&lt;/span&gt; &lt;span class="nv"&gt;package-enable-at-startup&lt;/span&gt; &lt;span class="nv"&gt;nil&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;setq&lt;/span&gt; &lt;span class="nv"&gt;package-archives&lt;/span&gt; &lt;span class="o"&gt;'&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="s"&gt;"gnu"&lt;/span&gt; &lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="s"&gt;"https://elpa.gnu.org/packages/"&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
@@ -33,11 +33,11 @@ mit einem Text.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org9f02059" class="outline-2"&gt;
-&lt;h2 id="org9f02059"&gt;und das ….&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org9f02059"&gt;
+&lt;div id="outline-container-orgf1f8c73" class="outline-2"&gt;
+&lt;h2 id="orgf1f8c73"&gt;und das ….&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgf1f8c73"&gt;
 &lt;p&gt;
-Ende.
+Ende. Hier schreibe ich weiter. 
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description><guid>https://github.com/mfuchs1/mfuchs1.github.io/posts/mein-erster-eintrag/</guid><pubDate>Fri, 17 Apr 2020 09:21:19 GMT</pubDate></item></channel></rss>
