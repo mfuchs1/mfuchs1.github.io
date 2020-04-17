@@ -1,4 +1,4 @@
-Sitemap: https://github.com/mfuchs1/mfuchs1.github.io/sitemapindex.xml
+Sitemap: https://mfuchs1.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: github.com
+Host: mfuchs1.github.io

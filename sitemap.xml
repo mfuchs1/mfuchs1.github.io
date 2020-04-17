@@ -6,39 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://github.com/mfuchs1/mfuchs1.github.io/</loc>
+  <loc>https://mfuchs1.github.io/</loc>
   <lastmod>2020-04-17T09:33:00Z</lastmod>
  </url>
  <url>
-  <loc>https://github.com/mfuchs1/mfuchs1.github.io/2020/</loc>
+  <loc>https://mfuchs1.github.io/2020/</loc>
   <lastmod>2020-04-17T09:33:00Z</lastmod>
  </url>
  <url>
-  <loc>https://github.com/mfuchs1/mfuchs1.github.io/archive.html</loc>
-  <lastmod>2020-04-17T19:03:00Z</lastmod>
+  <loc>https://mfuchs1.github.io/archive.html</loc>
+  <lastmod>2020-04-17T19:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://github.com/mfuchs1/mfuchs1.github.io/categories/</loc>
+  <loc>https://mfuchs1.github.io/categories/</loc>
   <lastmod>2020-04-17T09:18:00Z</lastmod>
  </url>
  <url>
-  <loc>https://github.com/mfuchs1/mfuchs1.github.io/galleries/</loc>
+  <loc>https://mfuchs1.github.io/galleries/</loc>
   <lastmod>2020-04-17T09:18:00Z</lastmod>
  </url>
  <url>
-  <loc>https://github.com/mfuchs1/mfuchs1.github.io/listings/</loc>
+  <loc>https://mfuchs1.github.io/listings/</loc>
   <lastmod>2020-04-17T09:18:00Z</lastmod>
  </url>
  <url>
-  <loc>https://github.com/mfuchs1/mfuchs1.github.io/posts/ein-zweiter-eintrag/</loc>
+  <loc>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</loc>
   <lastmod>2020-04-17T11:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://github.com/mfuchs1/mfuchs1.github.io/posts/emacs/</loc>
+  <loc>https://mfuchs1.github.io/posts/emacs/</loc>
   <lastmod>2020-04-17T19:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://github.com/mfuchs1/mfuchs1.github.io/posts/mein-erster-eintrag/</loc>
+  <loc>https://mfuchs1.github.io/posts/mein-erster-eintrag/</loc>
   <lastmod>2020-04-17T09:33:00Z</lastmod>
  </url>
 </urlset>
