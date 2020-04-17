@@ -1,0 +1,32 @@
+#+BEGIN_COMMENT
+.. title: Emacs
+.. slug: emacs
+.. date: 2020-04-17 21:01:59 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+#+END_COMMENT
+
+
+* Warum verwende Emacs / org-mode?
+Nach regelmäßiger Nutzung von Emacs beginne ich erst zu verstehen, wie mächtig dieses Programm ist. Die Bezeichnung "Programm" greift jedoch zu kurz. Emacs ist mehr als nur ein Programm; es ist ein Texteditor, ein Email / Twitter - Client. Emacs verwaltet meine Unterrichtsplanung in org-mode. Mit Emacs kann ich im Internet "browsen"; würde ich programmieren können, so wäre Emacs eine ideale Entwicklungsumbegung. Ich kann in meinen Dateien stöbern (tolle Suchfunktion) - und innerhalb aller geöffneten Dateien nach bestimmten Wörtern oder Inhalten suchen. Für LaTex gibt es keinen besseren Editor als Emacs.
+
+Am meisten verwende ich org-mode; dieser Modus innerhlab von Emacs hat meine Unterrichtsvorbereitung vereinfacht und effizienter gemacht. Jeder Stunde ist mit (internen) Links (#...) versehen, die Verweise zum Lehrplan und den verschiedenen Kompetenzen darstellen. 
+
+* Seit wann verwende ich Emacs?
+Das weiß ich nicht mehr. Lange Zeit habe ich einen großen Bogen um Emacs gemacht, mich haben wohl die Tastenkombinationen und die unüberschaubare Vielfalt der Einsatzmöglichkeiten abgeschreckt. Hin und wieder versuchte ich mich mit LaTex; dann erstellte ich ein paar kleine org-files. Ich schaute mir Tutorials auf YouTube an. So habe ich mich Schritt für Schritt an Emacs herangetastet. 
+
+Gegen Ende meiner Ausbildung zum Lehrer überlegte ich, wie meine Unterrichtsvorbereitung aussehen sollte. Eines war mir sofort klar: ich will keine Schränke und Regale voller Mappen und kopierten Zetteln zuhause haben. So weit es möglich ist, sollte die Vorbereitung vollständig am Laptop und Desktop-PC laufen. 
+
+Dank org-mode ist dies möglich. Während der letzten beiden Jahre habe ich meine org-files besser an meine Bedürfnisse angepasst - und natürlich auch an die veränderten Anforderungen des Lehrplans (Umstellung auf Kompetenz...). 
+
+* Was möchte ich noch besser in org-mode integrieren?
+Genial wäre es, meine täglichen Aufzeichungen (Benotung, Mitarbeit, Verhalten) über die Schüler in org-mode zu verwalten. Es gibt sicher einen Weg, aus den Aufzeichnungen zu einer "konkreten" Note zu kommen.
+
+Noch ein weiterer Texteditor.
+
+* Seit ein bißchen mehr als einer Woche ...
+arbeite ich mit einem neuen Laptop. Ich bin sehr zufrieden mit diesem Gerät: ein Lenovo V340, mit einer 520GB sehr schnellen Samsung SSD, einem i5 der 8. Generation und 16GB RAM. Manjaro KDE läuft sehr stabil, sieht einfach nur atemberaubend schön aus ... Danke an alle! 
