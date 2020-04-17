@@ -34,6 +34,9 @@ Hier werde ich meinen Text weiterschreiben.
  8. nikola build
  9. nikola serve
  10. nikola github_deploy
+ 11. Eventuell noch: git add --all ... und:
+ 12. git commit -m "einen commit verfassen"
+ 13. Zum Schluss: git push -u origin master
 
 Die Blog-Seite ist auf folgender URL: https://mfuchs1.github.io/
 
