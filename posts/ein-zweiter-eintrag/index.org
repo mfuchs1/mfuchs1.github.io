@@ -1,0 +1,24 @@
+#+BEGIN_COMMENT
+.. title: ein zweiter eintrag
+.. slug: ein-zweiter-eintrag
+.. date: 2020-04-17 13:41:52 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+#+END_COMMENT
+
+* 02 post
+Hier werde ich meinen Text weiterschreiben.
+
+#+BEGIN_SRC latex
+\begin{align}
+  G &= m_{S} g\\
+  [m_{S}] &= 1 kg\\
+  G &= 1 kg \cdot 9,81 \frac{m}{sec^2} = 9,81 N = 1 kp
+\end{align}
+#+END_SRC
+
+
