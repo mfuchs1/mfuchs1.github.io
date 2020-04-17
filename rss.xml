@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://github.com/mfuchs1/mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://github.com/mfuchs1/mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Fri, 17 Apr 2020 11:58:00 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ein zweiter eintrag</title><link>https://github.com/mfuchs1/mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org228a8c9" class="outline-2"&gt;
-&lt;h2 id="org228a8c9"&gt;02 post&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org228a8c9"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://github.com/mfuchs1/mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://github.com/mfuchs1/mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Fri, 17 Apr 2020 12:06:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ein zweiter eintrag</title><link>https://github.com/mfuchs1/mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orgebdb78b" class="outline-2"&gt;
+&lt;h2 id="orgebdb78b"&gt;02 post&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgebdb78b"&gt;
 &lt;p&gt;
 Hier werde ich meinen Text weiterschreiben.
 &lt;/p&gt;
@@ -12,6 +12,29 @@ Hier werde ich meinen Text weiterschreiben.
   G &lt;span class="nb"&gt;&amp;amp;&lt;/span&gt;= 1 kg &lt;span class="k"&gt;\cdot&lt;/span&gt; 9,81 &lt;span class="k"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;m&lt;span class="nb"&gt;}{&lt;/span&gt;sec&lt;span class="nb"&gt;^&lt;/span&gt;2&lt;span class="nb"&gt;}&lt;/span&gt; = 9,81 N = 1 kp
 &lt;span class="k"&gt;\end&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;align&lt;span class="nb"&gt;}&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div id="outline-container-org38bb1a8" class="outline-2"&gt;
+&lt;h2 id="org38bb1a8"&gt;Nikola Workflow&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org38bb1a8"&gt;
+&lt;ol class="org-ol"&gt;
+&lt;li&gt;Im Ordner &lt;i&gt;home/matthias/blog/mfuchs1.github.io&lt;/i&gt; ein Terminal öffnen.&lt;/li&gt;
+&lt;li&gt;Diesen Befehl eingeben: nikola new&lt;sub&gt;post&lt;/sub&gt; -f orgmode&lt;/li&gt;
+&lt;li&gt;Emacs starten&lt;/li&gt;
+&lt;li&gt;Den neuen "Eintrag" (ein org.file) öffnen&lt;/li&gt;
+&lt;li&gt;Text schreiben…&lt;/li&gt;
+&lt;li&gt;Zurück zum Terminal&lt;/li&gt;
+&lt;li&gt;Folgende Befehle eingeben:&lt;/li&gt;
+&lt;li&gt;nikola build&lt;/li&gt;
+&lt;li&gt;nikola serve&lt;/li&gt;
+&lt;li&gt;nikola github&lt;sub&gt;deploy&lt;/sub&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;
+Die Blog-Seite ist auf folgender URL: &lt;a href="https://mfuchs1.github.io/"&gt;https://mfuchs1.github.io/&lt;/a&gt;
+&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description><guid>https://github.com/mfuchs1/mfuchs1.github.io/posts/ein-zweiter-eintrag/</guid><pubDate>Fri, 17 Apr 2020 11:41:52 GMT</pubDate></item><item><title>mein erster Eintrag</title><link>https://github.com/mfuchs1/mfuchs1.github.io/posts/mein-erster-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;p&gt;
 So, hier werde ich nun schreiben.

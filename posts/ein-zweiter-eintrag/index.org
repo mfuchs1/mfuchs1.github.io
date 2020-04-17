@@ -22,3 +22,20 @@ Hier werde ich meinen Text weiterschreiben.
 #+END_SRC
 
 
+* Nikola Workflow
+
+ 1. Im Ordner /home/matthias/blog/mfuchs1.github.io/ ein Terminal öffnen.
+ 2. Diesen Befehl eingeben: nikola new_post -f orgmode
+ 3. Emacs starten
+ 4. Den neuen "Eintrag" (ein org.file) öffnen
+ 5. Text schreiben...
+ 6. Zurück zum Terminal
+ 7. Folgende Befehle eingeben:
+ 8. nikola build
+ 9. nikola serve
+ 10. nikola github_deploy
+
+Die Blog-Seite ist auf folgender URL: https://mfuchs1.github.io/
+
+
+
