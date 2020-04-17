@@ -1,0 +1,38 @@
+#+BEGIN_COMMENT
+.. title: mein erster Eintrag
+.. slug: mein-erster-eintrag
+.. date: 2020-04-17 11:21:19 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+#+END_COMMENT
+
+
+So, hier werde ich nun schreiben.
+
+* Eine erste Überschrift 
+mit einem Text.
+
+* eine zweite Überschrift
+#+BEGIN_SRC emacs-lisp
+(require 'package)
+(setq package-enable-at-startup nil)
+(setq package-archives '(("gnu" . "https://elpa.gnu.org/packages/")
+                         ("marmalade" . "https://marmalade-repo.org/packages/")
+			   ("org"       . "http://orgmode.org/elpa/")
+                         ("melpa" . "https://melpa.org/packages/")))
+(package-initialize)
+
+;; Bootstrap `use-package'
+(unless (package-installed-p 'use-package)
+  (package-refresh-contents)
+  (package-install 'use-package))
+
+(server-start)
+#+END_SRC 
+
+* und das ....
+Ende.
