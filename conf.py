@@ -169,7 +169,7 @@ THEME_CONFIG = {
         # Show the latest featured post in a large box, with the previewimage as its background.
         'featured_large': True,
         # Show the first (remaining) two featured posts in small boxes.
-        'featured_small': True,
+        'featured_small': False,
         # Show featured posts on mobile.
         'featured_on_mobile': True,
         # Show image in `featured_large` on mobile.
