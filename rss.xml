@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://github.com/mfuchs1/mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://github.com/mfuchs1/mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Fri, 17 Apr 2020 12:12:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ein zweiter eintrag</title><link>https://github.com/mfuchs1/mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orgaeefbb3" class="outline-2"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://github.com/mfuchs1/mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://github.com/mfuchs1/mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Fri, 17 Apr 2020 19:03:22 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Emacs</title><link>https://github.com/mfuchs1/mfuchs1.github.io/posts/emacs/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orgfc3d021" class="outline-2"&gt;
+&lt;h2 id="orgfc3d021"&gt;Warum verwende Emacs / org-mode?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgfc3d021"&gt;
+&lt;p&gt;
+Nach regelmäßiger Nutzung von Emacs beginne ich erst zu verstehen, wie mächtig dieses Programm ist. Die Bezeichnung "Programm" greift jedoch zu kurz. Emacs ist mehr als nur ein Programm; es ist ein Texteditor, ein Email / Twitter - Client. Emacs verwaltet meine Unterrichtsplanung in org-mode. Mit Emacs kann ich im Internet "browsen"; würde ich programmieren können, so wäre Emacs eine ideale Entwicklungsumbegung. Ich kann in meinen Dateien stöbern (tolle Suchfunktion) - und innerhalb aller geöffneten Dateien nach bestimmten Wörtern oder Inhalten suchen. Für LaTex gibt es keinen besseren Editor als Emacs.
+&lt;/p&gt;
+
+&lt;p&gt;
+Am meisten verwende ich org-mode; dieser Modus innerhlab von Emacs hat meine Unterrichtsvorbereitung vereinfacht und effizienter gemacht. Jeder Stunde ist mit (internen) Links (#…) versehen, die Verweise zum Lehrplan und den verschiedenen Kompetenzen darstellen. 
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-orgfae8ed0" class="outline-2"&gt;
+&lt;h2 id="orgfae8ed0"&gt;Seit wann verwende ich Emacs?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgfae8ed0"&gt;
+&lt;p&gt;
+Das weiß ich nicht mehr. Lange Zeit habe ich einen großen Bogen um Emacs gemacht, mich haben wohl die Tastenkombinationen und die unüberschaubare Vielfalt der Einsatzmöglichkeiten abgeschreckt. Hin und wieder versuchte ich mich mit LaTex; dann erstellte ich ein paar kleine org-files. Ich schaute mir Tutorials auf YouTube an. So habe ich mich Schritt für Schritt an Emacs herangetastet. 
+&lt;/p&gt;
+
+&lt;p&gt;
+Gegen Ende meiner Ausbildung zum Lehrer überlegte ich, wie meine Unterrichtsvorbereitung aussehen sollte. Eines war mir sofort klar: ich will keine Schränke und Regale voller Mappen und kopierten Zetteln zuhause haben. So weit es möglich ist, sollte die Vorbereitung vollständig am Laptop und Desktop-PC laufen. 
+&lt;/p&gt;
+
+&lt;p&gt;
+Dank org-mode ist dies möglich. Während der letzten beiden Jahre habe ich meine org-files besser an meine Bedürfnisse angepasst - und natürlich auch an die veränderten Anforderungen des Lehrplans (Umstellung auf Kompetenz…). 
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-orgcbc7f9b" class="outline-2"&gt;
+&lt;h2 id="orgcbc7f9b"&gt;Was möchte ich noch besser in org-mode integrieren?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgcbc7f9b"&gt;
+&lt;p&gt;
+Genial wäre es, meine täglichen Aufzeichungen (Benotung, Mitarbeit, Verhalten) über die Schüler in org-mode zu verwalten. Es gibt sicher einen Weg, aus den Aufzeichnungen zu einer "konkreten" Note zu kommen.
+&lt;/p&gt;
+
+&lt;p&gt;
+Noch ein weiterer Texteditor.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-org8098c88" class="outline-2"&gt;
+&lt;h2 id="org8098c88"&gt;Seit ein bißchen mehr als einer Woche …&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org8098c88"&gt;
+&lt;p&gt;
+arbeite ich mit einem neuen Laptop. Ich bin sehr zufrieden mit diesem Gerät: ein Lenovo V340, mit einer 520GB sehr schnellen Samsung SSD, einem i5 der 8. Generation und 16GB RAM. Manjaro KDE läuft sehr stabil, sieht einfach nur atemberaubend schön aus … Danke an alle! 
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><guid>https://github.com/mfuchs1/mfuchs1.github.io/posts/emacs/</guid><pubDate>Fri, 17 Apr 2020 19:01:59 GMT</pubDate></item><item><title>ein zweiter eintrag</title><link>https://github.com/mfuchs1/mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orgaeefbb3" class="outline-2"&gt;
 &lt;h2 id="orgaeefbb3"&gt;02 post&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-orgaeefbb3"&gt;
 &lt;p&gt;
