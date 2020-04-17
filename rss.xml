@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Fri, 17 Apr 2020 19:16:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Emacs</title><link>https://mfuchs1.github.io/posts/emacs/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org23655a6" class="outline-2"&gt;
-&lt;h2 id="org23655a6"&gt;Warum verwende Emacs / org-mode?&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org23655a6"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Fri, 17 Apr 2020 19:55:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Emacs</title><link>https://mfuchs1.github.io/posts/emacs/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org784fb67" class="outline-2"&gt;
+&lt;h2 id="org784fb67"&gt;Warum verwende Emacs / org-mode?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org784fb67"&gt;
 &lt;p&gt;
 Nach regelmäßiger Nutzung von Emacs beginne ich erst zu verstehen, wie mächtig dieses Programm ist. Die Bezeichnung "Programm" greift jedoch zu kurz. Emacs ist mehr als nur ein Programm; es ist ein Texteditor, ein Email / Twitter - Client. Emacs verwaltet meine Unterrichtsplanung in org-mode. Mit Emacs kann ich im Internet "browsen"; würde ich programmieren können, so wäre Emacs eine ideale Entwicklungsumbegung. Ich kann in meinen Dateien stöbern (tolle Suchfunktion) - und innerhalb aller geöffneten Dateien nach bestimmten Wörtern oder Inhalten suchen. Für LaTex gibt es keinen besseren Editor als Emacs.
 &lt;/p&gt;
@@ -12,9 +12,9 @@ Am meisten verwende ich org-mode; dieser Modus innerhlab von Emacs hat meine Unt
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org8ebc531" class="outline-2"&gt;
-&lt;h2 id="org8ebc531"&gt;Seit wann verwende ich Emacs?&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org8ebc531"&gt;
+&lt;div id="outline-container-org8fd66a0" class="outline-2"&gt;
+&lt;h2 id="org8fd66a0"&gt;Seit wann verwende ich Emacs?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org8fd66a0"&gt;
 &lt;p&gt;
 Das weiß ich nicht mehr. Lange Zeit habe ich einen großen Bogen um Emacs gemacht, mich haben wohl die Tastenkombinationen und die unüberschaubare Vielfalt der Einsatzmöglichkeiten abgeschreckt. Hin und wieder versuchte ich mich mit LaTex; dann erstellte ich ein paar kleine org-files. Ich schaute mir Tutorials auf YouTube an. So habe ich mich Schritt für Schritt an Emacs herangetastet. 
 &lt;/p&gt;
@@ -29,9 +29,9 @@ Dank org-mode ist dies möglich. Während der letzten beiden Jahre habe ich mein
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-orgd559e46" class="outline-2"&gt;
-&lt;h2 id="orgd559e46"&gt;Was möchte ich noch besser in org-mode integrieren?&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgd559e46"&gt;
+&lt;div id="outline-container-org5681c5d" class="outline-2"&gt;
+&lt;h2 id="org5681c5d"&gt;Was möchte ich noch besser in org-mode integrieren?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org5681c5d"&gt;
 &lt;p&gt;
 Genial wäre es, meine täglichen Aufzeichungen (Benotung, Mitarbeit, Verhalten) über die Schüler in org-mode zu verwalten. Es gibt sicher einen Weg, aus den Aufzeichnungen zu einer "konkreten" Note zu kommen.
 &lt;/p&gt;
@@ -42,16 +42,16 @@ Noch ein weiterer Texteditor.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org04781a9" class="outline-2"&gt;
-&lt;h2 id="org04781a9"&gt;Seit ein bißchen mehr als einer Woche …&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org04781a9"&gt;
+&lt;div id="outline-container-org685d189" class="outline-2"&gt;
+&lt;h2 id="org685d189"&gt;Seit ein bißchen mehr als einer Woche …&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org685d189"&gt;
 &lt;p&gt;
 arbeite ich mit einem neuen Laptop. Ich bin sehr zufrieden mit diesem Gerät: ein Lenovo V340, mit einer 520GB sehr schnellen Samsung SSD, einem i5 der 8. Generation und 16GB RAM. Manjaro KDE läuft sehr stabil, sieht einfach nur atemberaubend schön aus … Danke an alle! 
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>https://mfuchs1.github.io/posts/emacs/</guid><pubDate>Fri, 17 Apr 2020 19:01:59 GMT</pubDate></item><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org7cf8e76" class="outline-2"&gt;
-&lt;h2 id="org7cf8e76"&gt;02 post&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org7cf8e76"&gt;
+&lt;/div&gt;</description><guid>https://mfuchs1.github.io/posts/emacs/</guid><pubDate>Fri, 17 Apr 2020 19:01:59 GMT</pubDate></item><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orge62ef9a" class="outline-2"&gt;
+&lt;h2 id="orge62ef9a"&gt;02 post&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orge62ef9a"&gt;
 &lt;p&gt;
 Hier werde ich meinen Text weiterschreiben.
 &lt;/p&gt;
@@ -66,9 +66,9 @@ Hier werde ich meinen Text weiterschreiben.
 &lt;/div&gt;
 
 
-&lt;div id="outline-container-orgb82fa89" class="outline-2"&gt;
-&lt;h2 id="orgb82fa89"&gt;Nikola Workflow&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgb82fa89"&gt;
+&lt;div id="outline-container-org2141768" class="outline-2"&gt;
+&lt;h2 id="org2141768"&gt;Nikola Workflow&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org2141768"&gt;
 &lt;ol class="org-ol"&gt;
 &lt;li&gt;Im Ordner &lt;i&gt;home/matthias/blog/mfuchs1.github.io&lt;/i&gt; ein Terminal öffnen.&lt;/li&gt;
 &lt;li&gt;Diesen Befehl eingeben: nikola new&lt;sub&gt;post&lt;/sub&gt; -f orgmode&lt;/li&gt;
@@ -93,18 +93,18 @@ Die Blog-Seite ist auf folgender URL: &lt;a href="https://mfuchs1.github.io/"&gt
 So, hier werde ich nun schreiben.
 &lt;/p&gt;
 
-&lt;div id="outline-container-orgb1504ca" class="outline-2"&gt;
-&lt;h2 id="orgb1504ca"&gt;Eine erste Überschrift&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgb1504ca"&gt;
+&lt;div id="outline-container-orgc539f38" class="outline-2"&gt;
+&lt;h2 id="orgc539f38"&gt;Eine erste Überschrift&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgc539f38"&gt;
 &lt;p&gt;
 mit einem Text.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-orgccb0f06" class="outline-2"&gt;
-&lt;h2 id="orgccb0f06"&gt;eine zweite Überschrift&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgccb0f06"&gt;
+&lt;div id="outline-container-org5d95c8a" class="outline-2"&gt;
+&lt;h2 id="org5d95c8a"&gt;eine zweite Überschrift&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org5d95c8a"&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;require&lt;/span&gt; &lt;span class="ss"&gt;'package&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;setq&lt;/span&gt; &lt;span class="nv"&gt;package-enable-at-startup&lt;/span&gt; &lt;span class="nv"&gt;nil&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;setq&lt;/span&gt; &lt;span class="nv"&gt;package-archives&lt;/span&gt; &lt;span class="o"&gt;'&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="s"&gt;"gnu"&lt;/span&gt; &lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="s"&gt;"https://elpa.gnu.org/packages/"&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
@@ -123,9 +123,9 @@ mit einem Text.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org50b08c0" class="outline-2"&gt;
-&lt;h2 id="org50b08c0"&gt;und das ….&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org50b08c0"&gt;
+&lt;div id="outline-container-org3c91a59" class="outline-2"&gt;
+&lt;h2 id="org3c91a59"&gt;und das ….&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org3c91a59"&gt;
 &lt;p&gt;
 Ende. Hier schreibe ich weiter. 
 &lt;/p&gt;
