@@ -40,5 +40,10 @@ Hier werde ich meinen Text weiterschreiben.
 
 Die Blog-Seite ist auf folgender URL: https://mfuchs1.github.io/
 
+* Zum Schluss
+noch ein schönes Foto:
+
+file:///home/matthias/blog/mfuchs1.github.io/images/IMG_3913.JPG
+
 
 
