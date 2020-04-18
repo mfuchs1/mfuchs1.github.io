@@ -167,16 +167,16 @@ THEME_COLOR = '#5670d4'
 THEME_CONFIG = {
     DEFAULT_LANG: {
         # Show the latest featured post in a large box, with the previewimage as its background.
-        'featured_large': False,
+        'featured_large': True,
         # Show the first (remaining) two featured posts in small boxes.
-        'featured_small': False,
+        'featured_small': True,
         # Show featured posts on mobile.
         'featured_on_mobile': True,
         # Show image in `featured_large` on mobile.
         # `featured_small` displays them only on desktop.
-        'featured_large_image_on_mobile': True,
+        'featured_large_image_on_mobile': False,
         # Strip HTML from featured post text.
-        'featured_strip_html': False,
+        'featured_strip_html': True,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
         'sidebar': ''
     }
