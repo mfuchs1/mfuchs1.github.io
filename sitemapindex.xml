@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://mfuchs1.github.io/galleries/rss.xml</loc>
-  <lastmod>2020-04-17T20:36:00Z</lastmod>
+  <lastmod>2020-04-18T10:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mfuchs1.github.io/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://mfuchs1.github.io/sitemap.xml</loc>
-  <lastmod>2020-04-17T20:36:00Z</lastmod>
+  <lastmod>2020-04-18T10:17:00Z</lastmod>
  </sitemap>
 </sitemapindex>
