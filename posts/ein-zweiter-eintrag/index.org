@@ -2,7 +2,7 @@
 .. title: ein zweiter eintrag
 .. slug: ein-zweiter-eintrag
 .. date: 2020-04-17 13:41:52 UTC+02:00
-.. tags: 
+.. tags: nikola
 .. category: 
 .. link: 
 .. description: 
