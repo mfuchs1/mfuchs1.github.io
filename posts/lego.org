@@ -22,5 +22,17 @@ Aus den Legosteinen konnte ich mein Traum-Raumschiff von Lego nachbauen. Allerdi
 #+NAME:   fig:SED-HR4050
 [[../../images/galaxy_explorer.jpg]]
 
+Im nächsten Foto blicken wir dem Astronauten über die Schulter: wir erkennen die Bordcomputer und die Steuerelemente. Hinter ihm hätte der zweite Astronaut noch Platz.
+
+#+CAPTION: Pilot
+#+NAME:   fig:SED-HR4051
+[[../../images/space_pilot.jpg]]
+
+Das Raumschiff ist groß genug, ein kleines Raumfahrzeug zu transportieren. Einfacher als dieses kleine Fahrzeug geht es nicht mehr - und gerade deshalb ist das kleine Auto genial.
+
+#+CAPTION: Little Space Car
+#+NAME:   fig:SED-HR4049
+[[../../images/space_car.jpg]]
+
 * Spaziergang 
 Heute bin ich nicht spazieren gegangen - ich war zu müde. Die letzten Tage und Woche war wir mit unseren Kindern fst täglich im Wald oder an der Glan unterwegs. 
