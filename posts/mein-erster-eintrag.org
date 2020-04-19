@@ -2,7 +2,7 @@
 .. title: mein erster Eintrag
 .. slug: mein-erster-eintrag
 .. date: 2020-04-17 11:21:19 UTC+02:00
-.. tags: 
+.. tags: emacs
 .. category: 
 .. link: 
 .. description: 
