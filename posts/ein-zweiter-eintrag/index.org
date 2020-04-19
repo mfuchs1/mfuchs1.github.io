@@ -47,5 +47,7 @@ file:///home/matthias/blog/mfuchs1.github.io/galleries/images/blacklion.jpg
 
 file:///home/matthias/blog/mfuchs1.github.io/images/blacklion.jpg
 
-
+#+CAPTION: black lion
+#+NAME:   fig:SED-HR4049
+[[./imges/blacklion.jpg]]
 
