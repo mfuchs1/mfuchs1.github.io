@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Sun, 19 Apr 2020 14:39:43 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Emacs</title><link>https://mfuchs1.github.io/posts/emacs/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orgaa99f8a" class="outline-2"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Sun, 19 Apr 2020 14:42:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Emacs</title><link>https://mfuchs1.github.io/posts/emacs/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orgaa99f8a" class="outline-2"&gt;
 &lt;h2 id="orgaa99f8a"&gt;Warum verwende Emacs / org-mode?&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-orgaa99f8a"&gt;
 &lt;p&gt;
@@ -49,9 +49,9 @@ Noch ein weiterer Texteditor.
 arbeite ich mit einem neuen Laptop. Ich bin sehr zufrieden mit diesem Gerät: ein Lenovo V340, mit einer 520GB sehr schnellen Samsung SSD, einem i5 der 8. Generation und 16GB RAM. Manjaro KDE läuft sehr stabil, sieht einfach nur atemberaubend schön aus … Danke an alle! 
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>emacs</category><guid>https://mfuchs1.github.io/posts/emacs/</guid><pubDate>Fri, 17 Apr 2020 19:01:59 GMT</pubDate></item><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orgd47ec45" class="outline-2"&gt;
-&lt;h2 id="orgd47ec45"&gt;02 post&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgd47ec45"&gt;
+&lt;/div&gt;</description><category>emacs</category><guid>https://mfuchs1.github.io/posts/emacs/</guid><pubDate>Fri, 17 Apr 2020 19:01:59 GMT</pubDate></item><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org939c3e0" class="outline-2"&gt;
+&lt;h2 id="org939c3e0"&gt;02 post&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org939c3e0"&gt;
 &lt;p&gt;
 Hier werde ich meinen Text weiterschreiben.
 &lt;/p&gt;
@@ -66,9 +66,9 @@ Hier werde ich meinen Text weiterschreiben.
 &lt;/div&gt;
 
 
-&lt;div id="outline-container-orge0809c4" class="outline-2"&gt;
-&lt;h2 id="orge0809c4"&gt;Nikola Workflow&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orge0809c4"&gt;
+&lt;div id="outline-container-org422885b" class="outline-2"&gt;
+&lt;h2 id="org422885b"&gt;Nikola Workflow&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org422885b"&gt;
 &lt;ol class="org-ol"&gt;
 &lt;li&gt;Im Ordner &lt;i&gt;home/matthias/blog/mfuchs1.github.io&lt;/i&gt; ein Terminal öffnen.&lt;/li&gt;
 &lt;li&gt;Diesen Befehl eingeben: nikola new&lt;sub&gt;post&lt;/sub&gt; -f orgmode&lt;/li&gt;
@@ -91,9 +91,9 @@ Die Blog-Seite ist auf folgender URL: &lt;a href="https://mfuchs1.github.io/"&gt
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org3ac68ce" class="outline-2"&gt;
-&lt;h2 id="org3ac68ce"&gt;Zum Schluss&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org3ac68ce"&gt;
+&lt;div id="outline-container-orgb6a4c36" class="outline-2"&gt;
+&lt;h2 id="orgb6a4c36"&gt;Zum Schluss&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgb6a4c36"&gt;
 &lt;p&gt;
 noch ein schönes Foto:
 &lt;/p&gt;
@@ -111,8 +111,8 @@ noch ein schönes Foto:
 &lt;/div&gt;
 
 
-&lt;div id="org468e64f" class="figure"&gt;
-&lt;p&gt;&lt;img src="https://mfuchs1.github.io/posts/ein-zweiter-eintrag/imges/blacklion.jpg" alt="blacklion.jpg"&gt;
+&lt;div id="org1648fe5" class="figure"&gt;
+&lt;p&gt;&lt;img src="https://mfuchs1.github.io/images/blacklion.jpg" alt="blacklion.jpg"&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;span class="figure-number"&gt;Figure 3: &lt;/span&gt;black lion&lt;/p&gt;
 &lt;/div&gt;
