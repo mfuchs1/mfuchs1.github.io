@@ -31,8 +31,18 @@ Im nächsten Foto blicken wir dem Astronauten über die Schulter: wir erkennen d
 Das Raumschiff ist groß genug, ein kleines Raumfahrzeug zu transportieren. Einfacher als dieses kleine Fahrzeug geht es nicht mehr - und gerade deshalb ist das kleine Auto genial.
 
 #+CAPTION: Little Space Car
-#+NAME:   fig:SED-HR4049
+#+NAME:   fig:SED-HR4052
 [[../../images/space_car.jpg]]
+
+Außerdem habe ich den Flughafen, ein Passagierflugzeug und einen Helikopter gebaut. Besonders stolz bin ich jedoch auf den Nachbau des allerersten Lego-Technik-Modells: ein roter Traktor mit "Grasschneide-Maschine". Die Maschine kann man mit einem Hebel heben und senken. Die Lenkung und die Zahnräder gehen sehr leicht. 
+
+#+CAPTION: Traktor Lego-Technik 851
+#+NAME:   fig:SED-HR4053
+[[../../images/traktor.jpg]]
+
+#+CAPTION: Grasschneide-Maschine
+#+NAME:   fig:SED-HR4054
+[[../../images/maschine.jpg]]
 
 * Spaziergang 
 Heute bin ich nicht spazieren gegangen - ich war zu müde. Die letzten Tage und Woche war wir mit unseren Kindern fast täglich im Wald oder an der Glan unterwegs. 
