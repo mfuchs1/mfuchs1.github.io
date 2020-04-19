@@ -43,6 +43,6 @@ Die Blog-Seite ist auf folgender URL: https://mfuchs1.github.io/
 * Zum Schluss
 noch ein schönes Foto:
 
-file:///home/matthias/blog/mfuchs1.github.io/galleries/images/IMG_3913.JPG
+file:///home/matthias/blog/mfuchs1.github.io/galleries/images/blacklion.JPG
 
 
