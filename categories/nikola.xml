@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog (Posts about nikola)</title><link>https://mfuchs1.github.io/</link><description></description><atom:link href="https://mfuchs1.github.io/categories/nikola.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Sun, 19 Apr 2020 14:15:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org546830f" class="outline-2"&gt;
-&lt;h2 id="org546830f"&gt;02 post&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org546830f"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog (Posts about nikola)</title><link>https://mfuchs1.github.io/</link><description></description><atom:link href="https://mfuchs1.github.io/categories/nikola.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Sun, 19 Apr 2020 14:23:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org7f7a6c6" class="outline-2"&gt;
+&lt;h2 id="org7f7a6c6"&gt;02 post&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org7f7a6c6"&gt;
 &lt;p&gt;
 Hier werde ich meinen Text weiterschreiben.
 &lt;/p&gt;
@@ -16,9 +16,9 @@ Hier werde ich meinen Text weiterschreiben.
 &lt;/div&gt;
 
 
-&lt;div id="outline-container-org5b73429" class="outline-2"&gt;
-&lt;h2 id="org5b73429"&gt;Nikola Workflow&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org5b73429"&gt;
+&lt;div id="outline-container-org31dae49" class="outline-2"&gt;
+&lt;h2 id="org31dae49"&gt;Nikola Workflow&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org31dae49"&gt;
 &lt;ol class="org-ol"&gt;
 &lt;li&gt;Im Ordner &lt;i&gt;home/matthias/blog/mfuchs1.github.io&lt;/i&gt; ein Terminal öffnen.&lt;/li&gt;
 &lt;li&gt;Diesen Befehl eingeben: nikola new&lt;sub&gt;post&lt;/sub&gt; -f orgmode&lt;/li&gt;
@@ -41,9 +41,9 @@ Die Blog-Seite ist auf folgender URL: &lt;a href="https://mfuchs1.github.io/"&gt
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-orgf51a7d5" class="outline-2"&gt;
-&lt;h2 id="orgf51a7d5"&gt;Zum Schluss&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgf51a7d5"&gt;
+&lt;div id="outline-container-orgc7c50a7" class="outline-2"&gt;
+&lt;h2 id="orgc7c50a7"&gt;Zum Schluss&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgc7c50a7"&gt;
 &lt;p&gt;
 noch ein schönes Foto:
 &lt;/p&gt;
@@ -51,6 +51,12 @@ noch ein schönes Foto:
 
 &lt;div class="figure"&gt;
 &lt;p&gt;&lt;img src="file:///home/matthias/blog/mfuchs1.github.io/galleries/images/blacklion.jpg" alt="blacklion.jpg"&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class="figure"&gt;
+&lt;p&gt;&lt;img src="file:///home/matthias/blog/mfuchs1.github.io/images/blacklion.jpg" alt="blacklion.jpg"&gt;
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
