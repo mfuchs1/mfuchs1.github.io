@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog (Posts about nikola)</title><link>https://mfuchs1.github.io/</link><description></description><atom:link href="https://mfuchs1.github.io/categories/nikola.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Sun, 19 Apr 2020 14:42:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org939c3e0" class="outline-2"&gt;
-&lt;h2 id="org939c3e0"&gt;02 post&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org939c3e0"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog (Posts about nikola)</title><link>https://mfuchs1.github.io/</link><description></description><atom:link href="https://mfuchs1.github.io/categories/nikola.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Sun, 19 Apr 2020 21:30:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org73e0641" class="outline-2"&gt;
+&lt;h2 id="org73e0641"&gt;02 post&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org73e0641"&gt;
 &lt;p&gt;
 Hier werde ich meinen Text weiterschreiben.
 &lt;/p&gt;
@@ -16,9 +16,9 @@ Hier werde ich meinen Text weiterschreiben.
 &lt;/div&gt;
 
 
-&lt;div id="outline-container-org422885b" class="outline-2"&gt;
-&lt;h2 id="org422885b"&gt;Nikola Workflow&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org422885b"&gt;
+&lt;div id="outline-container-org0142600" class="outline-2"&gt;
+&lt;h2 id="org0142600"&gt;Nikola Workflow&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org0142600"&gt;
 &lt;ol class="org-ol"&gt;
 &lt;li&gt;Im Ordner &lt;i&gt;home/matthias/blog/mfuchs1.github.io&lt;/i&gt; ein Terminal öffnen.&lt;/li&gt;
 &lt;li&gt;Diesen Befehl eingeben: nikola new&lt;sub&gt;post&lt;/sub&gt; -f orgmode&lt;/li&gt;
@@ -41,30 +41,18 @@ Die Blog-Seite ist auf folgender URL: &lt;a href="https://mfuchs1.github.io/"&gt
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-orgb6a4c36" class="outline-2"&gt;
-&lt;h2 id="orgb6a4c36"&gt;Zum Schluss&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgb6a4c36"&gt;
+&lt;div id="outline-container-org1217589" class="outline-2"&gt;
+&lt;h2 id="org1217589"&gt;Zum Schluss&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org1217589"&gt;
 &lt;p&gt;
 noch ein schönes Foto:
 &lt;/p&gt;
 
 
-&lt;div class="figure"&gt;
-&lt;p&gt;&lt;img src="file:///home/matthias/blog/mfuchs1.github.io/galleries/images/blacklion.jpg" alt="blacklion.jpg"&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-
-&lt;div class="figure"&gt;
-&lt;p&gt;&lt;img src="file:///home/matthias/blog/mfuchs1.github.io/images/blacklion.jpg" alt="blacklion.jpg"&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-
-&lt;div id="org1648fe5" class="figure"&gt;
+&lt;div id="orge49bf7d" class="figure"&gt;
 &lt;p&gt;&lt;img src="https://mfuchs1.github.io/images/blacklion.jpg" alt="blacklion.jpg"&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;span class="figure-number"&gt;Figure 3: &lt;/span&gt;black lion&lt;/p&gt;
+&lt;p&gt;&lt;span class="figure-number"&gt;Figure 1: &lt;/span&gt;black lion&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description><category>nikola</category><guid>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</guid><pubDate>Fri, 17 Apr 2020 11:41:52 GMT</pubDate></item></channel></rss>

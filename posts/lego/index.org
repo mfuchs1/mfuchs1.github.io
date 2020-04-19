@@ -1,0 +1,26 @@
+#+BEGIN_COMMENT
+.. title: Lego
+.. slug: lego
+.. date: 2020-04-19 23:12:29 UTC+02:00
+.. tags: Lego 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+#+END_COMMENT
+
+* Barmherzigkeit
+Heute vor 29 Jahren hat der hl. Papst Johannes-Paul II. die polnische Ordnesschwester Sr. Faustina heiliggessprochen. Am selben Tag hat der Papst das Fest der Göttlichen Barmherzigkeit für den zweiten Sonntag nach Ostern eingeführt. 
+
+* Lego
+In den letzten Wochen habe ich mit unseren Kindern alte Lego-Modelle aus meiner Kindheit wieder aufgebaut. Besonders der Zug hat den Kindern sehr gefallen. Erstaunlicherweise hat er noch immer sehr gut funktioniert - sogar die Weichen und das Stop-Signal. 
+
+Aus den Legosteinen konnte ich mein Traum-Raumschiff von Lego nachbauen. Allerdings fehlen mir die wesentlichen Teile: die gelben transparenten Fenster und Platten. Da ich ein paar blau-transparente Teile gefunden habe, entschied ich mich, den Resst des Raumschiffes nicht in blau, sondern in Weiß zu bauen. Mit dem Ergebnis bin ich zufrieden.
+
+#+CAPTION: Galaxy Explorer
+#+NAME:   fig:SED-HR4050
+[[../../images/galaxy_explorer.jpg]]
+
+* Spaziergang 
+Heute bin ich nicht spazieren gegangen - ich war zu müde. Die letzten Tage und Woche war wir mit unseren Kindern fst täglich im Wald oder an der Glan unterwegs. 
