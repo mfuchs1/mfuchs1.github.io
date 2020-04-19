@@ -45,4 +45,7 @@ noch ein schönes Foto:
 
 file:///home/matthias/blog/mfuchs1.github.io/galleries/images/blacklion.jpg
 
+file:///home/matthias/blog/mfuchs1.github.io/images/blacklion.jpg
+
+
 
