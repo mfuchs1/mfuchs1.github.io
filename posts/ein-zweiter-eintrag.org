@@ -25,18 +25,22 @@ Hier werde ich meinen Text weiterschreiben.
 * Nikola Workflow
 
  1. Im Ordner /home/matthias/blog/mfuchs1.github.io/ ein Terminal öffnen.
- 2. Diesen Befehl eingeben: nikola new_post -f orgmode
- 3. Emacs starten
- 4. Den neuen "Eintrag" (ein org.file) öffnen
- 5. Text schreiben...
- 6. Zurück zum Terminal
- 7. Folgende Befehle eingeben:
- 8. nikola build
- 9. nikola serve
- 10. nikola github_deploy
- 11. Eventuell noch: git add --all ... und:
- 12. git commit -m "einen commit verfassen"
- 13. Zum Schluss: git push -u origin master
+ 2. git checkout -b sources
+ 3. Diesen Befehl eingeben: nikola new_post -f orgmode
+ 4. Emacs starten
+ 5. Den neuen "Eintrag" (ein org.file) öffnen
+ 6. Text schreiben...
+ 7. Zurück zum Terminal
+ 8. Folgende Befehle eingeben:
+ 9. git commit -m "hier kommt etwas hinein"
+ 10. git add -all
+ 11. git push -u origin master
+ 12. nikola build
+ 13. nikola serve
+ 14. nikola github_deploy
+ 15. Eventuell noch: git add --all ... und:
+ 16. git commit -m "einen commit verfassen"
+ 17. Zum Schluss: git push -u origin master
 
 Die Blog-Seite ist auf folgender URL: https://mfuchs1.github.io/
 
