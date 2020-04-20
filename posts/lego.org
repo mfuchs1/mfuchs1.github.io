@@ -16,7 +16,7 @@ Heute vor 29 Jahren hat der hl. Papst Johannes-Paul II. die polnische Ordnesschw
 * Lego
 In den letzten Wochen habe ich mit unseren Kindern alte Lego-Modelle aus meiner Kindheit wieder aufgebaut. Besonders der Zug hat den Kindern sehr gefallen. Erstaunlicherweise hat er noch immer sehr gut funktioniert - sogar die Weichen und das Stop-Signal. 
 
-Aus den Legosteinen konnte ich mein Traum-Raumschiff von Lego nachbauen. Allerdings fehlen mir die wesentlichen Teile: die gelben transparenten Fenster und Platten. Da ich ein paar blau-transparente Teile gefunden habe, entschied ich mich, den Resst des Raumschiffes nicht in blau, sondern in Weiß zu bauen. Mit dem Ergebnis bin ich zufrieden.
+Aus den Legosteinen konnte ich mein Traum-Raumschiff von Lego nachbauen. Allerdings fehlen mir die wesentlichen Teile: die gelben transparenten Fenster und Platten. Da ich ein paar blau-transparente Teile gefunden habe, entschied ich mich, den Rest des Raumschiffes nicht in blau, sondern in Weiß zu bauen. Mit dem Ergebnis bin ich zufrieden.
 
 #+CAPTION: Galaxy Explorer
 #+NAME:   fig:SED-HR4050
