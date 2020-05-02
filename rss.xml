@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Mon, 20 Apr 2020 20:35:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lego</title><link>https://mfuchs1.github.io/posts/lego/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org7db0d3e" class="outline-2"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>the lion blog</title><link>https://mfuchs1.github.io/</link><description>Emacs rocks!</description><atom:link href="https://mfuchs1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:matthiasfuchs01@gmail.com"&gt;Matthias Fuchs&lt;/a&gt; </copyright><lastBuildDate>Sat, 02 May 2020 16:03:24 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>#04</title><link>https://mfuchs1.github.io/posts/04/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org8fb255f" class="outline-2"&gt;
+&lt;h2 id="org8fb255f"&gt;Schule&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org8fb255f"&gt;
+&lt;p&gt;
+Seit sieben Wochen unterrichte ich mit meinen Kollegen von Zuhause aus. Nicht nur den Schülern geht der Schulalltag in der Schule ab. Das Unterrichten über die digitalen Medien ist etwas Neues, aber auch besonders anstrengend. Meine Kollegen sitzen wesentlich länger bei der Arbeit. Meine Arbeitsaufträge in Religion ersetzen meine Unterrichtseinheiten, sind daher keine Hausübung. Vor den Osterferien habe ich jede Woche pro Klasse einen Auftrag erteilt. Jetzt gebe ich einen Auftrag für alle Klassen für zwei Wochen. Im Gegensatz zu meinen Kollegen habe ich die gesamte Schule und damit fast 200 Arbeiten zu korrigieren. 
+&lt;/p&gt;
+
+&lt;p&gt;
+Am 15. Mai findet eine Konferenz statt - mit physischer Anwesenheit in der Schule? Oder über Videokonferenz? Das ist noch nicht klar.  
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><guid>https://mfuchs1.github.io/posts/04/</guid><pubDate>Sat, 02 May 2020 15:10:43 GMT</pubDate></item><item><title>Lego</title><link>https://mfuchs1.github.io/posts/lego/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-org7db0d3e" class="outline-2"&gt;
 &lt;h2 id="org7db0d3e"&gt;Barmherzigkeit&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-org7db0d3e"&gt;
 &lt;p&gt;
@@ -133,9 +144,9 @@ Noch ein weiterer Texteditor.
 arbeite ich mit einem neuen Laptop. Ich bin sehr zufrieden mit diesem Gerät: ein Lenovo V340, mit einer 520GB sehr schnellen Samsung SSD, einem i5 der 8. Generation und 16GB RAM. Manjaro KDE läuft sehr stabil, sieht einfach nur atemberaubend schön aus … Danke an alle! 
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>emacs</category><guid>https://mfuchs1.github.io/posts/emacs/</guid><pubDate>Fri, 17 Apr 2020 19:01:59 GMT</pubDate></item><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orgaca2d53" class="outline-2"&gt;
-&lt;h2 id="orgaca2d53"&gt;02 post&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgaca2d53"&gt;
+&lt;/div&gt;</description><category>emacs</category><guid>https://mfuchs1.github.io/posts/emacs/</guid><pubDate>Fri, 17 Apr 2020 19:01:59 GMT</pubDate></item><item><title>ein zweiter eintrag</title><link>https://mfuchs1.github.io/posts/ein-zweiter-eintrag/</link><dc:creator>Matthias Fuchs</dc:creator><description>&lt;div id="outline-container-orgf1359f9" class="outline-2"&gt;
+&lt;h2 id="orgf1359f9"&gt;02 post&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgf1359f9"&gt;
 &lt;p&gt;
 Hier werde ich meinen Text weiterschreiben.
 &lt;/p&gt;
@@ -150,9 +161,9 @@ Hier werde ich meinen Text weiterschreiben.
 &lt;/div&gt;
 
 
-&lt;div id="outline-container-org79435a5" class="outline-2"&gt;
-&lt;h2 id="org79435a5"&gt;Nikola Workflow&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org79435a5"&gt;
+&lt;div id="outline-container-orgf2f9616" class="outline-2"&gt;
+&lt;h2 id="orgf2f9616"&gt;Nikola Workflow&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgf2f9616"&gt;
 &lt;ol class="org-ol"&gt;
 &lt;li&gt;Im Ordner &lt;i&gt;home/matthias/blog/mfuchs1.github.io&lt;/i&gt; ein Terminal öffnen.&lt;/li&gt;
 &lt;li&gt;git checkout sources&lt;/li&gt;
@@ -178,15 +189,15 @@ Die Blog-Seite ist auf folgender URL: &lt;a href="https://mfuchs1.github.io/"&gt
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org62b8636" class="outline-2"&gt;
-&lt;h2 id="org62b8636"&gt;Zum Schluss&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org62b8636"&gt;
+&lt;div id="outline-container-orgc6f1d16" class="outline-2"&gt;
+&lt;h2 id="orgc6f1d16"&gt;Zum Schluss&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgc6f1d16"&gt;
 &lt;p&gt;
 noch ein schönes Foto:
 &lt;/p&gt;
 
 
-&lt;div id="org2e303ff" class="figure"&gt;
+&lt;div id="orgacbeff9" class="figure"&gt;
 &lt;p&gt;&lt;img src="https://mfuchs1.github.io/images/blacklion.jpg" alt="blacklion.jpg"&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;span class="figure-number"&gt;Figure 1: &lt;/span&gt;black lion&lt;/p&gt;
