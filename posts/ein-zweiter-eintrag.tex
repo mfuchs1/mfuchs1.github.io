@@ -1,0 +1,62 @@
+% Created 2020-04-27 Mo 22:25
+% Intended LaTeX compiler: pdflatex
+\documentclass[pdftex,a4paper,12pt,bibliography=totoc,draft]{scrartcl}
+\author{Matthias Fuchs}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={Matthias Fuchs},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.3 (Org mode 9.3.6)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+\section{02 post}
+\label{sec:org1d437fd}
+Hier werde ich meinen Text weiterschreiben.
+
+\begin{align}
+  G &= m_{S} g\\
+  [m_{S}] &= 1 kg\\
+  G &= 1 kg \cdot 9,81 \frac{m}{sec^2} = 9,81 N = 1 kp
+\end{align}
+
+
+\section{Nikola Workflow}
+\label{sec:org81795e8}
+
+\begin{enumerate}
+\item Im Ordner \emph{home/matthias/blog/mfuchs1.github.io} ein Terminal öffnen.
+\item git checkout sources
+\item Diesen Befehl eingeben: nikola new\textsubscript{post} -f orgmode <dateiname>.org
+\item Titel eingeben
+\item Emacs starten
+\item Den neuen "Eintrag" (ein org.file) öffnen
+\item Text schreiben\ldots{}
+\item Zurück zum Terminal
+\item Folgende git-Befehle eingeben:
+\item git add ./posts/<dateiname>.org
+\item git commit -m "hier kommt etwas hinein"
+\item git push --all
+\item git push -u origin master
+\item nikola build
+\item nikola serve
+\item nikola github\textsubscript{deploy}
+\end{enumerate}
+
+Die Blog-Seite ist auf folgender URL: \url{https://mfuchs1.github.io/}
+
+\section{Zum Schluss}
+\label{sec:org821980d}
+noch ein schönes Foto:
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=.9\linewidth]{../../images/blacklion.jpg}
+\caption{\label{fig:org69650e5}black lion}
+\end{figure}
+\end{document}
