@@ -159,7 +159,7 @@ GLOBAL_CONTEXT = {
         'TWITTER_URL': 'https://twitter.com/getnikola',
         'GITHUB_URL': 'https://github.com/getnikola',
         'LINKEDIN_URL': None,
-        'BANNER_URL': '/assets/img/silk-road.jpg'
+        'BANNER_URL': '/home/matthias/blog/mfuchs1.github.io/themes/canterville/assets/img/silk-road.jpg'
             }
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
