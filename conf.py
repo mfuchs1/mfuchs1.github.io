@@ -154,7 +154,13 @@ NAVIGATION_ALT_LINKS = {
 
 # Name of the theme to use.
 THEME = "canterville"
-
+LOGO_URL = 'https://getnikola.com/assets/img/logo.svg'
+GLOBAL_CONTEXT = {
+        'TWITTER_URL': 'https://twitter.com/getnikola',
+        'GITHUB_URL': 'https://github.com/getnikola',
+        'LINKEDIN_URL': None,
+        'BANNER_URL': '/assets/img/silk-road.jpg'
+            }
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
 THEME_COLOR = '#5670d4'
