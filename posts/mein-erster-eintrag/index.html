@@ -161,7 +161,7 @@ Ende. Hier schreibe ich weiter.
                 <a href="../ein-zweiter-eintrag/" rel="next" title="ein zweiter eintrag">Next post</a>
             </li>
         </ul></nav></aside></article><!--End of body content--><footer id="footer">
-            Contents © 2020         <a href="mailto:matthiasfuchs01@gmail.com">Matthias Fuchs</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2021         <a href="mailto:matthiasfuchs01@gmail.com">Matthias Fuchs</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
             
         </footer>
@@ -172,9 +172,7 @@ Ende. Hier schreibe ich weiter.
         <script src="../../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>
